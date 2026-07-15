@@ -15,7 +15,7 @@ Official PyTorch implementation of IRUAV-DETR.
 
 ## 📂 Dataset
 
-We use the following datasets:
+We use the following dataset:
 
 ### HIT-UAV
 - Download: https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset  
