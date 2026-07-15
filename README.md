@@ -20,3 +20,16 @@ We use the following datasets:
 ### HIT-UAV
 - Download: https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset  
 ---
+## 🚀 Training & Testing
+
+### Training
+python train.py
+
+You can modify training configurations in train.py, including:
+
+- dataset path
+- batch size
+- number of epochs
+
+### Testing
+python test_xxx.py
