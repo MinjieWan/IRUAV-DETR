@@ -12,3 +12,11 @@ Official PyTorch implementation of IRUAV-DETR.
 - numpy  
 - scikit-image  
 ---
+
+## 📂 Dataset
+
+We use the following datasets:
+
+### HIT-UAV
+- Download: https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset  
+---
